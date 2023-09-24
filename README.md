@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Java for Backend**
 
-- 👨‍💻 All of my projects are available at [dovudhon.com](dovudhon.com)
+- 👨‍💻 All of my projects are available at [https://dovudhon.com](dovudhon.com)
 
-- 📝 I regularly write articles on [dev.to/dovudhonhusanov](dev.to/dovudhonhusanov)
+- 📝 I regularly write articles on [https://dev.to/dovudhonhusanov](dev.to/dovudhonhusanov)
 
 - 📫 How to reach me **dovudkhonhusanov5007@gmail.com**
 
-- 📄 Know about my experiences [dovudhon.com/resume.pdf](dovudhon.com/resume.pdf)
+- 📄 Know about my experiences [https://dovudhon.com/resume.pdf](dovudhon.com/resume.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
