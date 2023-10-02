@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dovudhusanov" alt="dovudhusanov" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dovudhusanov" target="blank"><img src="https://img.shields.io/twitter/follow/dovudhonhusanov?logo=twitter&style=for-the-badge" alt="dovudhusanov" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dovudhusanov" target="blank"><img src="https://img.shields.io/twitter/follow/dovudhusanov?logo=twitter&style=for-the-badge" alt="dovudhusanov" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [dovudhon.com](https://dovudhon.com)
 
