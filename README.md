@@ -9,15 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [dovudhon.com](https://dovudhon.com)
 
-- 📝 I regularly write articles on [dev.to/dovudhusanov](https://dev.to/dovudhusanov)
+- 📝 I regularly write articles on [t.me/dovudhusanov](https://t.me/dovudhusanov)
 
-- 📫 How to reach me **dovudkhonhusanov5007@gmail.com**
-
-- 📄 Know about my experiences [dovudhon.com/resume.pdf](https://dovudhon.com/resume.pdf)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 How to reach me **dovudhusanov1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
