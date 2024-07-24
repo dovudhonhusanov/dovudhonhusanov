@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/dovudhusanov" target="blank"><img src="https://img.shields.io/twitter/follow/dovudhusanov?logo=twitter&style=for-the-badge" alt="dovudhusanov" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [dovudhon.com](https://dovudhon.com)
-
 - 📝 I regularly write articles on [t.me/dovudhusanov](https://t.me/dovudhusanov)
 
 - 📫 How to reach me **dovudhusanov1@gmail.com**
